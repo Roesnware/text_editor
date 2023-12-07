@@ -28,7 +28,8 @@
 
 ![demo1](jate_demo.gif)
 
-![link to deployed](https://text-editor-krat.onrender.com)
+link to deployed:
+https://text-editor-krat.onrender.com
 
 ## Test
 
